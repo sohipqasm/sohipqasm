@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 
 <!---
-sohipqasm/sohipqasm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+sohipqasm/sohipqasm is a ✨ special ✨ repository B E cause its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-0786082424 مزاجي حرر  2005
+0786082424 مزاجي حرر 2018
